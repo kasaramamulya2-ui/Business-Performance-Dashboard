@@ -34,6 +34,10 @@ This project presents and interactive business performance dashboard developed u
 
 The complete Power BI dashboard is available in: `PowerBI-Report.pbix`
 
+## Dashboard Preview
+
+![Business Performance Dashboard](dashboard.png)
+
 ## Key Insights
 
 The dashboard helps identify business performance trends, compare different categories and segments, and analyze sales and profitability to support business decisions.
